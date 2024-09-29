@@ -46,3 +46,16 @@ hr {
     }
 
 }
+
+@media screen and (min-width: 1728px) {
+
+    .lista-rodape {
+        border-left: 1px solid var(--cor-sextaria);
+        padding-left: 1em;
+    }
+
+    .rodape {
+        padding: 3em 0;
+    }
+
+}
